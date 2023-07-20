@@ -5,4 +5,4 @@ testando again
    Este é um repositório teste para ensinar como o GIT funciona. saiba mais no link:
    www.google.com
 
-   New informations
+   New informations about this code program made by me. (just a little example)   
