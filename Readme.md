@@ -5,4 +5,8 @@ testando again
    Este é um repositório teste para ensinar como o GIT funciona. saiba mais no link:
    www.google.com
 
-   New informations about this code program made by me. (just a little example)   
+   New informations about this code program made by me. (just a little example)
+
+   just pushing any informations.
+
+   Testing again  about tags in github.
